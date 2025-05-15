@@ -12,14 +12,6 @@ to become an expert in either asynchronous programming or professional-grade spe
 * Pluggable architecture; bring your own smart lights or audio player
 * Fully asynchronous without requiring the user to understand asynchronous programming
 
-## Installation
-
-You can install SpecialEffects using pip:
-
-```commandline
-pip install specialeffects
-```
-
 ## Basic Example
 
 The following example configures two Kasa brand smart lights, and then
